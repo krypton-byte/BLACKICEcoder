@@ -1,0 +1,349 @@
+[06-May-2021 21:58:26 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 21:58:28 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 21:58:56 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 21:58:56 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 21:59:28 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 21:59:50 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 22:00:17 UTC] PHP Warning:  Undefined variable $tRemainingPerc in /data/data/com.termux/files/usr/BLACKICEcoder/editor2.php on line 101
+[06-May-2021 22:00:25 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 22:00:27 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 22:01:04 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 22:02:06 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 22:02:08 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 22:02:12 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 22:02:13 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 22:02:20 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 22:02:23 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 22:03:03 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 22:03:24 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 22:03:35 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 22:03:37 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 22:03:38 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 22:04:17 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[06-May-2021 22:05:18 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 07:54:24 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 09:08:03 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 09:08:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 22
+[07-May-2021 09:08:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 30
+[07-May-2021 09:08:03 UTC] PHP Warning:  Undefined array key "location" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 120
+[07-May-2021 09:08:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 233
+[07-May-2021 09:08:03 UTC] PHP Warning:  Undefined array key "location" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 388
+[07-May-2021 09:08:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 403
+[07-May-2021 09:08:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 472
+[07-May-2021 09:08:29 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 09:08:29 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 22
+[07-May-2021 09:08:29 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 30
+[07-May-2021 09:08:29 UTC] PHP Warning:  Undefined array key "location" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 120
+[07-May-2021 09:08:29 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:29 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:29 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:29 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:29 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:29 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:29 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:29 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:29 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:29 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 233
+[07-May-2021 09:08:29 UTC] PHP Warning:  Undefined array key "location" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 388
+[07-May-2021 09:08:29 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 403
+[07-May-2021 09:08:29 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 472
+[07-May-2021 09:08:30 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 09:08:30 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 22
+[07-May-2021 09:08:30 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 30
+[07-May-2021 09:08:30 UTC] PHP Warning:  Undefined array key "location" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 120
+[07-May-2021 09:08:30 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:30 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:30 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:30 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:30 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:30 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:30 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:30 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:30 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:30 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 233
+[07-May-2021 09:08:30 UTC] PHP Warning:  Undefined array key "location" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 388
+[07-May-2021 09:08:30 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 403
+[07-May-2021 09:08:30 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 472
+[07-May-2021 09:08:32 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 09:08:32 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 22
+[07-May-2021 09:08:32 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 30
+[07-May-2021 09:08:32 UTC] PHP Warning:  Undefined array key "location" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 120
+[07-May-2021 09:08:32 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:32 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:32 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:32 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:32 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:32 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:32 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:32 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:32 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:08:32 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 233
+[07-May-2021 09:08:32 UTC] PHP Warning:  Undefined array key "location" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 388
+[07-May-2021 09:08:32 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 403
+[07-May-2021 09:08:32 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 472
+[07-May-2021 09:09:03 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 09:09:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 22
+[07-May-2021 09:09:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 30
+[07-May-2021 09:09:03 UTC] PHP Warning:  Undefined array key "location" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 120
+[07-May-2021 09:09:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 233
+[07-May-2021 09:09:03 UTC] PHP Warning:  Undefined array key "location" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 388
+[07-May-2021 09:09:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 403
+[07-May-2021 09:09:03 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 472
+[07-May-2021 09:09:17 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 09:09:17 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 22
+[07-May-2021 09:09:17 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 30
+[07-May-2021 09:09:17 UTC] PHP Warning:  Undefined array key "location" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 120
+[07-May-2021 09:09:17 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:17 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:17 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:17 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:17 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:17 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:17 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:17 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:17 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 153
+[07-May-2021 09:09:17 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 233
+[07-May-2021 09:09:17 UTC] PHP Warning:  Undefined array key "location" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 388
+[07-May-2021 09:09:17 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 403
+[07-May-2021 09:09:17 UTC] PHP Warning:  Undefined array key "githubDiff" in /data/data/com.termux/files/usr/BLACKICEcoder/lib/get-branch.php on line 472
+[07-May-2021 09:09:33 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 09:09:45 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 09:09:47 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 09:09:49 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 09:34:58 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 09:38:59 UTC] PHP Warning:  Undefined variable $t in /data/data/com.termux/files/usr/BLACKICEcoder/lib/headers.php on line 21
+[07-May-2021 09:38:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /data/data/com.termux/files/usr/BLACKICEcoder/lib/headers.php on line 21
+[07-May-2021 09:55:00 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 09:55:09 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 09:57:33 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 10:01:21 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 10:02:02 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 10:02:14 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:35:05 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:35:51 UTC] PHP Warning:  fopen(../plugins/svg-edit/svg-edit-2.6/): Failed to open stream: Is a directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/plugins-manager.php on line 51
+[07-May-2021 15:35:51 UTC] PHP Fatal error:  Uncaught TypeError: fclose(): Argument #1 ($stream) must be of type resource, bool given in /data/data/com.termux/files/usr/BLACKICEcoder/lib/plugins-manager.php:55
+Stack trace:
+#0 /data/data/com.termux/files/usr/BLACKICEcoder/lib/plugins-manager.php(55): fclose(false)
+#1 {main}
+  thrown in /data/data/com.termux/files/usr/BLACKICEcoder/lib/plugins-manager.php on line 55
+[07-May-2021 15:37:50 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:39:50 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:40:21 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:40:29 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:40:35 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:40:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 20
+[07-May-2021 15:40:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 21
+[07-May-2021 15:40:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 22
+[07-May-2021 15:40:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 23
+[07-May-2021 15:40:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 24
+[07-May-2021 15:40:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 26
+[07-May-2021 15:40:41 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 31
+[07-May-2021 15:40:41 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 38
+[07-May-2021 15:40:41 UTC] PHP Warning:  scandir(/data/data/com.termux/files/usr/BLACKICEcoder/lib/../backups/localhost): Failed to open directory: No such file or directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-screen.php on line 125
+[07-May-2021 15:40:41 UTC] PHP Warning:  scandir(): (errno 2): No such file or directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-screen.php on line 125
+[07-May-2021 15:40:41 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($var) must be of type Countable|array, bool given in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-screen.php:127
+Stack trace:
+#0 {main}
+  thrown in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-screen.php on line 127
+[07-May-2021 15:41:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 20
+[07-May-2021 15:41:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 21
+[07-May-2021 15:41:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 22
+[07-May-2021 15:41:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 23
+[07-May-2021 15:41:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 24
+[07-May-2021 15:41:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 26
+[07-May-2021 15:41:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 31
+[07-May-2021 15:41:25 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 38
+[07-May-2021 15:41:25 UTC] PHP Warning:  scandir(/data/data/com.termux/files/usr/BLACKICEcoder/lib/../backups/localhost): Failed to open directory: No such file or directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-screen.php on line 125
+[07-May-2021 15:41:25 UTC] PHP Warning:  scandir(): (errno 2): No such file or directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-screen.php on line 125
+[07-May-2021 15:41:25 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($var) must be of type Countable|array, bool given in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-screen.php:127
+Stack trace:
+#0 {main}
+  thrown in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-screen.php on line 127
+[07-May-2021 15:42:01 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:42:01 UTC] PHP Warning:  Undefined array key 0 in /data/data/com.termux/files/usr/BLACKICEcoder/lib/file-control-xhr.php on line 76
+[07-May-2021 15:42:01 UTC] PHP Fatal error:  Uncaught Error: Attempt to assign property "name" on null in /data/data/com.termux/files/usr/BLACKICEcoder/lib/file-control-xhr.php:751
+Stack trace:
+#0 /data/data/com.termux/files/usr/BLACKICEcoder/lib/file-control-xhr.php(760): getDetails(Array)
+#1 {main}
+  thrown in /data/data/com.termux/files/usr/BLACKICEcoder/lib/file-control-xhr.php on line 751
+[07-May-2021 15:42:35 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:44:05 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:44:34 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:44:37 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:44:42 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:44:57 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:45:00 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:45:02 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:45:07 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:49:51 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:50:03 UTC] PHP Warning:  Undefined variable $t in /data/data/com.termux/files/usr/BLACKICEcoder/lib/headers.php on line 21
+[07-May-2021 15:50:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /data/data/com.termux/files/usr/BLACKICEcoder/lib/headers.php on line 21
+[07-May-2021 15:51:45 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:54:02 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:56:07 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:56:29 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:56:41 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:56:53 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:57:11 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:57:54 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:58:06 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:58:29 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:58:49 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:59:03 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:59:24 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 15:59:55 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:00:12 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:00:31 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:00:33 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:00:34 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:01:16 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:01:29 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:01:59 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:02:02 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:02:29 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:02:33 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:02:58 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:03:00 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:03:24 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:03:29 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:11:28 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:12:22 UTC] PHP Warning:  Undefined variable $t in /data/data/com.termux/files/usr/BLACKICEcoder/lib/headers.php on line 21
+[07-May-2021 16:12:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /data/data/com.termux/files/usr/BLACKICEcoder/lib/headers.php on line 21
+[07-May-2021 16:13:43 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:14:11 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:16:07 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:17:21 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:20:13 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:20:35 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:21:15 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:26:16 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:33:10 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:33:15 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:34:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 20
+[07-May-2021 16:34:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 21
+[07-May-2021 16:34:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 22
+[07-May-2021 16:34:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 23
+[07-May-2021 16:34:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 24
+[07-May-2021 16:34:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 26
+[07-May-2021 16:34:10 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed after headers have already been sent in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 31
+[07-May-2021 16:34:10 UTC] PHP Warning:  session_regenerate_id(): Session ID cannot be regenerated when there is no active session in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-common.php on line 38
+[07-May-2021 16:34:10 UTC] PHP Warning:  scandir(/data/data/com.termux/files/usr/BLACKICEcoder/lib/../backups/localhost): Failed to open directory: No such file or directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-screen.php on line 125
+[07-May-2021 16:34:10 UTC] PHP Warning:  scandir(): (errno 2): No such file or directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-screen.php on line 125
+[07-May-2021 16:34:10 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($var) must be of type Countable|array, bool given in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-screen.php:127
+Stack trace:
+#0 {main}
+  thrown in /data/data/com.termux/files/usr/BLACKICEcoder/lib/settings-screen.php on line 127
+[07-May-2021 16:34:34 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:39:56 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:40:00 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:40:01 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:44:38 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:44:40 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 16:58:10 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:00:28 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:01:03 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:01:22 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:01:39 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:02:01 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:02:13 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:02:42 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:03:36 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:04:01 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:04:18 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:05:10 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:05:44 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:06:21 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:07:28 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:08:13 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:08:34 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:09:06 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:09:42 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:33:43 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:34:29 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:35:08 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:35:40 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:50:41 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:50:57 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:51:19 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:51:32 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:52:47 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:53:23 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:54:08 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:54:34 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:54:53 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:55:42 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:56:33 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:56:55 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:57:19 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 17:57:34 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:03:03 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:04:08 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:04:45 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:05:27 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:05:43 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:06:33 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:06:59 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:08:11 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:08:29 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:09:20 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:10:01 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:10:53 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:11:29 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:12:09 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:12:47 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:13:45 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:14:18 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:14:58 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:17:55 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:18:23 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:19:11 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:20:49 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:20:56 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:22:05 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:22:19 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:22:28 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:22:40 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:23:09 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:23:55 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:24:24 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:24:44 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:28:08 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:29:08 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:29:14 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:29:26 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:29:27 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:31:22 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:31:24 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:32:21 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:32:24 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:41:00 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:41:01 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:42:48 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 18:58:49 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 19:03:14 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 19:03:18 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 19:03:44 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 19:03:49 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 19:05:20 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 19:06:25 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 19:06:47 UTC] PHP Deprecated:  Required parameter $fileName follows optional parameter $directory in /data/data/com.termux/files/usr/BLACKICEcoder/lib/ftp-control.php on line 44
+[07-May-2021 19:06:58 UTC] PHP Warning:  Undefined variable $t in /data/data/com.termux/files/usr/BLACKICEcoder/lib/headers.php on line 21
+[07-May-2021 19:06:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /data/data/com.termux/files/usr/BLACKICEcoder/lib/headers.php on line 21
