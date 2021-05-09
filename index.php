@@ -263,7 +263,7 @@ $t = $text['index'];
   </div>
 </div>-->
 <div id="wah">
-  <div id="header-modal" style="background-color:blue;"><h2><img src="/images/term.png" width="26px">Terminal<p align="right"><a href="javascript:$('#wah').css('visibility','hidden');"><img src="/images/windows-minimize-icon-26.jpg" width="26px" style="position:absolute;top:-2;right:-2;"></a></h2></p></div>
+  <div id="header-modal" style="background-color:blue;"><h2><img src="/images/term.png" width="26px" style="left:10px;">Terminal<a href="javascript:exit_fullscreen();"><img id="exit_fullscreen" src="images/exit-full-screen.png" width="21px" style="position:absolute;top:3;right:60;"></a><a href="javascript:fullscreen();"><img id="fullscreen" src="images/full.png" width="25px" style="position:absolute;top:0;right:30;"></a><a href="javascript:$('#wah').css('visibility','hidden');"><img src="/images/windows-minimize-icon-26.jpg" width="23px" style="position:absolute;top:1;right:4;"></a></h2></div>
   <iframe src="/terminal" width="100%" height="100%" >
       </iframe></div>
 <style>
@@ -275,6 +275,22 @@ $t = $text['index'];
     height: 70%;
   }
   </style>
+  <script>
+    $("#exit_fullscreen").hide();
+      function fullscreen(){
+        $("#exit_fullscreen").show();
+         $("#fullscreen").hide()
+         $("#wah").css("width","100%").css("height", "100%").css("left", "0%").css("top", "0%");
+         $("#exit_fullscreen");
+         $("#exit_fullscreen").css("right", "30");
+
+      }
+      function exit_fullscreen(){
+        $("#fullscreen").show();
+        $("#exit_fullscreen").hide();
+        $("#wah").css("position", "absolute").css("left", "20%").css("top", "25%").css("width", "70%").css("height", "70%");
+      }
+  </script>
 <script>
   const showHide = function(elem) {
     const x = document.getElementById(elem);
