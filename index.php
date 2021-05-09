@@ -263,24 +263,16 @@ $t = $text['index'];
   </div>
 </div>-->
 <div id="wah">
-  <div id="header-modal" style="background-color:blue;"><h2><img src="/images/term.png" width="26px" style="left:10px;">Terminal<a href="javascript:exit_fullscreen();"><img id="exit_fullscreen" src="images/exit-full-screen.png" width="21px" style="position:absolute;top:3;right:60;"></a><a href="javascript:fullscreen();"><img id="fullscreen" src="images/full.png" width="25px" style="position:absolute;top:0;right:30;"></a><a href="javascript:$('#wah').css('visibility','hidden');"><img src="/images/windows-minimize-icon-26.jpg" width="23px" style="position:absolute;top:1;right:4;"></a></h2></div>
-  <iframe src="/terminal" width="100%" height="100%" >
+  <div id="header-modal" style="backdrop-filter: blur(8px);background-image:linear-gradient(#cc2b5e, #753a88);"><h2><img src="/images/term.png" width="26px" style="left:10px;">Terminal<a href="javascript:exit_fullscreen();"><img id="exit_fullscreen" src="images/exit-full-screen.png" width="21px" style="position:absolute;top:3;right:60;"></a><a href="javascript:fullscreen();"><img id="fullscreen" src="images/full.png" width="25px" style="position:absolute;top:0;right:30;"></a><a href="javascript:$('#wah').css('visibility','hidden');"><img src="/images/windows-minimize-icon-26.jpg" width="23px" style="position:absolute;top:1;right:4;"></a></h2></div>
+  <iframe src="http://192.168.43.48:8001/" width="100%" height="100%" >
       </iframe></div>
-<style>
-  #wah {
-    position: absolute;
-    left:20%;
-    top:  25%;
-    width: 70%;
-    height: 70%;
-  }
-  </style>
   <script>
-    $("#exit_fullscreen").hide();
+    $("#wah").css("visibility", "hidden")
+    exit_fullscreen();
       function fullscreen(){
         $("#exit_fullscreen").show();
          $("#fullscreen").hide()
-         $("#wah").css("width","100%").css("height", "100%").css("left", "0%").css("top", "0%");
+         $("#wah").css("width","100%").css("height", "100%").css("left", "0%").css("top", "0%").css("position", "absolute").css("opacity", "0.7")
          $("#exit_fullscreen");
          $("#exit_fullscreen").css("right", "30");
 
@@ -288,7 +280,7 @@ $t = $text['index'];
       function exit_fullscreen(){
         $("#fullscreen").show();
         $("#exit_fullscreen").hide();
-        $("#wah").css("position", "absolute").css("left", "20%").css("top", "25%").css("width", "70%").css("height", "70%");
+        $("#wah").css("position", "absolute").css("left", "20%").css("top", "25%").css("width", "70%").css("height", "70%").css("opacity", "0.7");
       }
   </script>
 <script>

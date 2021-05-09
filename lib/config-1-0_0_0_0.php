@@ -43,8 +43,8 @@ $ICEcoderUserSettings = array(
 "ftpSites"		=> array(),
 "githubLocalPaths"	=> array(),
 "githubRemotePaths"	=> array(),
-"previousFiles"		=> "|data|data|com.termux|files|home|anjay.py",
-"last10Files"		=> "|data|data|com.termux|fileshome|anjay.py,|data|data|com.termux|files|usr|ko,|data|data|com.termux|files|usr|x,|sdcard|.profig.os,|sdcard|hasil.png,|sdcard|lrc,|data|data|com.termux|files|home|icecoder|README.de.md,|data|data|com.termux|files|home|.bash_history,|data|data|com.termux|files|home|anjay.py",
+"previousFiles"		=> "|home|krypton-byte|proxy.py",
+"last10Files"		=> "|home|krypton-byte|proxy.py,|home|krypton-byte|package.json,|data|data|com.termux|fileshome|anjay.py,|data|data|com.termux|files|usr|ko,|data|data|com.termux|files|usr|x,|sdcard|.profig.os,|sdcard|hasil.png,|sdcard|lrc,|data|data|com.termux|files|home|icecoder|README.de.md,|data|data|com.termux|files|home|.bash_history",
 "favoritePaths"		=> array()
 );
 ?>
