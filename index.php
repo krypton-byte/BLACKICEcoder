@@ -16,13 +16,13 @@ $isMac = strpos($_SERVER['HTTP_USER_AGENT'], "Macintosh")>-1 ? true : false;
   <style>
 	#tabsBar.tabsBar .tab { font-size: <?php echo $ICEcoder["fontSize"];?>; }
 </style>
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <!--
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script> -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
   <link rel="stylesheet" type="text/css" media="screen" href="main.css?microtime=<?php echo microtime(true);?>" />
   <link rel="stylesheet" type="text/css" href="lib/ice-coder.css?microtime=<?php echo microtime(true);?>">
   <link rel="stylesheet" href="<?php
@@ -239,6 +239,7 @@ $t = $text['index'];
       <div class="rightbarTabs" id="tabsBar" onContextMenu="return false">
         <div class="tabbarimgdiv"><a href="javascript: showHide('leftbar');" class="tabbarimgdiv" ><img src="/images/98-document-storage.png" class="tabbarimg" /></a></div>
         <div class="tabbarimgdiv"><a href="javascript: $('#wah').css('visibility','visible');" class="tabbarimgdiv" data-toggle="modal" data-target="#exampleModalCenter"><img src="/images/term.png" class="tabbarimg" /></a></div>
+        <div class="tabbarimgdiv" id="preview_id"><a href="javascript:preview_select();" class="tabbarimgdiv" data-toggle="modal" data-target="#exampleModalCenter"><img src="/images/preview.png" class="tabbarimg" /></a></div>
         <div style="display: inline-block;" id="divcontainer"></div>
       </div>
 
@@ -264,15 +265,43 @@ $t = $text['index'];
 </div>-->
 <div id="wah">
   <div id="header-modal" style="backdrop-filter: blur(8px);background-image:linear-gradient(#cc2b5e, #753a88);"><h2><img src="/images/term.png" width="26px" style="left:10px;">Terminal<a href="javascript:exit_fullscreen();"><img id="exit_fullscreen" src="images/exit-full-screen.png" width="21px" style="position:absolute;top:3;right:60;"></a><a href="javascript:fullscreen();"><img id="fullscreen" src="images/full.png" width="25px" style="position:absolute;top:0;right:30;"></a><a href="javascript:$('#wah').css('visibility','hidden');"><img src="/images/windows-minimize-icon-26.jpg" width="23px" style="position:absolute;top:1;right:4;"></a></h2></div>
-  <iframe src="/terminal" width="100%" height="100%" >
+  <iframe src="http://192.168.43.48:8001" frameborder="0" width="100%" height="100%">
       </iframe></div>
+      <style>
+        #wah {
+          backdrop-filter: blur(10px);
+          position: absolute;
+          left: 20%;
+          top: 25%;
+          width:70%;
+          height:70%
+          opacity:0.8;
+          visibility:hidden;
+
+        }
+        #preview_id {
+          visibility: hidden;
+        }
+      </style>
   <script>
-    $("#wah").css("visibility", "hidden")
-    exit_fullscreen();
+    if(window.location.host === "kiw.herokuapp.com"){
+      $("#preview_id").css("visibility", "visible");
+    }
+    function preview_select(){
+      if(top.ICEcoder.shortURL){
+        if(typeof(top.ICEcoder.selectedTab) === "number"){
+          window.open(`http://krypton-byte.byethost5.com${top.ICEcoder.shortURL}`, '_blank');
+        }else{
+          window.open(`http://krypton-byte.byethost5.com${top.ICEcoder.selectedTab}`, '_blank');
+        }
+      }else{
+        alert("select File To review");
+      }
+    }
       function fullscreen(){
         $("#exit_fullscreen").show();
          $("#fullscreen").hide()
-         $("#wah").css("width","100%").css("height", "100%").css("left", "0%").css("top", "0%").css("position", "absolute").css("opacity", "0.8")
+         $("#wah").css("width","100%").css("height", "100%").css("left", "0%").css("top", "0%")
          $("#exit_fullscreen");
          $("#exit_fullscreen").css("right", "30");
 
@@ -280,7 +309,7 @@ $t = $text['index'];
       function exit_fullscreen(){
         $("#fullscreen").show();
         $("#exit_fullscreen").hide();
-        $("#wah").css("position", "absolute").css("left", "20%").css("top", "25%").css("width", "70%").css("height", "70%").css("opacity", "0.8");
+        $("#wah").css("left", "20%").css("top", "25%").css("width", "70%").css("height", "70%")
       }
   </script>
 <script>
