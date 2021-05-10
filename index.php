@@ -265,7 +265,7 @@ $t = $text['index'];
 </div>-->
 <div id="wah">
   <div id="header-modal" style="backdrop-filter: blur(8px);background-image:linear-gradient(#cc2b5e, #753a88);"><h2><img src="/images/term.png" width="26px" style="left:10px;">Terminal<a href="javascript:exit_fullscreen();"><img id="exit_fullscreen" src="images/exit-full-screen.png" width="21px" style="position:absolute;top:3;right:60;"></a><a href="javascript:fullscreen();"><img id="fullscreen" src="images/full.png" width="25px" style="position:absolute;top:0;right:30;"></a><a href="javascript:$('#wah').css('visibility','hidden');"><img src="/images/windows-minimize-icon-26.jpg" width="23px" style="position:absolute;top:1;right:4;"></a></h2></div>
-  <iframe src="http://192.168.43.48:8001" frameborder="0" width="100%" height="100%">
+  <iframe src="/terminal" frameborder="0" width="100%" height="100%">
       </iframe></div>
       <style>
         #wah {
