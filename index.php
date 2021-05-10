@@ -273,10 +273,10 @@ $t = $text['index'];
           position: absolute;
           left: 20%;
           top: 25%;
-          width:70%;
-          height:70%
-          opacity:0.8;
-          visibility:hidden;
+          width: 70%;
+          height: 70%
+          opacity: 0.8;
+          visibility: hidden;
 
         }
         #exit_fullscreen {
@@ -301,11 +301,11 @@ $t = $text['index'];
         alert("select File To review");
       }
     }
+    exit_fullscreen();
       function fullscreen(){
         $("#exit_fullscreen").css("visibility", "visible");
          $("#fullscreen").css("visibility", "hidden");
          $("#wah").css("width","100%").css("height", "100%").css("left", "0%").css("top", "0%")
-         $("#exit_fullscreen");
          $("#exit_fullscreen").css("right", "30");
 
       }
