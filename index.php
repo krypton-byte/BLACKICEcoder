@@ -279,6 +279,9 @@ $t = $text['index'];
           visibility:hidden;
 
         }
+        #exit_fullscreen {
+          visibility: hidden;
+        }
         #preview_id {
           visibility: hidden;
         }
@@ -299,16 +302,16 @@ $t = $text['index'];
       }
     }
       function fullscreen(){
-        $("#exit_fullscreen").show();
-         $("#fullscreen").hide()
+        $("#exit_fullscreen").css("visibility", "visible");
+         $("#fullscreen").css("visibility", "hidden");
          $("#wah").css("width","100%").css("height", "100%").css("left", "0%").css("top", "0%")
          $("#exit_fullscreen");
          $("#exit_fullscreen").css("right", "30");
 
       }
       function exit_fullscreen(){
-        $("#fullscreen").show();
-        $("#exit_fullscreen").hide();
+        $("#fullscreen").css("visibility", "visible");
+        $("#exit_fullscreen").css("visibility", "hidden");
         $("#wah").css("left", "20%").css("top", "25%").css("width", "70%").css("height", "70%")
       }
   </script>
