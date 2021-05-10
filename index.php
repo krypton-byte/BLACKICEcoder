@@ -271,16 +271,8 @@ $t = $text['index'];
         #wah {
           backdrop-filter: blur(10px);
           position: absolute;
-          left: 20%;
-          top: 25%;
-          width: 70%;
-          height: 70%
           opacity: 0.8;
-          visibility: hidden;
 
-        }
-        #exit_fullscreen {
-          visibility: hidden;
         }
         #preview_id {
           visibility: hidden;
@@ -301,19 +293,20 @@ $t = $text['index'];
         alert("select File To review");
       }
     }
-    exit_fullscreen();
       function fullscreen(){
-        $("#exit_fullscreen").css("visibility", "visible");
-         $("#fullscreen").css("visibility", "hidden");
+        $("#exit_fullscreen").show();
+         $("#fullscreen").hide();
          $("#wah").css("width","100%").css("height", "100%").css("left", "0%").css("top", "0%")
          $("#exit_fullscreen").css("right", "30");
 
       }
       function exit_fullscreen(){
-        $("#fullscreen").css("visibility", "visible");
-        $("#exit_fullscreen").css("visibility", "hidden");
+        $("#fullscreen").show();
+        $("#exit_fullscreen").hide();
         $("#wah").css("left", "20%").css("top", "25%").css("width", "70%").css("height", "70%")
+        
       }
+      exit_fullscreen();
   </script>
 <script>
   const showHide = function(elem) {
